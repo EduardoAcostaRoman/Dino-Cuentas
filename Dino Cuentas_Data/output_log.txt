@@ -1,0 +1,48 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R5 Graphics (ID=0x9851)
+    Vendor:   ATI
+    VRAM:     1007 MB
+    Driver:   15.201.1101.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\lalo_\Documents\Dino Cuentas\Dino Cuentas_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\lalo_\Documents\Dino Cuentas\Dino Cuentas_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\lalo_\Documents\Dino Cuentas\Dino Cuentas_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\lalo_\Documents\Dino Cuentas\Dino Cuentas_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\lalo_\Documents\Dino Cuentas\Dino Cuentas_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\lalo_\Documents\Dino Cuentas\Dino Cuentas_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\lalo_\Documents\Dino Cuentas\Dino Cuentas_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\lalo_\Documents\Dino Cuentas\Dino Cuentas_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\lalo_\Documents\Dino Cuentas\Dino Cuentas_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\lalo_\Documents\Dino Cuentas\Dino Cuentas_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.344 seconds
+Platform assembly: C:\Users\lalo_\Documents\Dino Cuentas\Dino Cuentas_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\lalo_\Documents\Dino Cuentas\Dino Cuentas_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.854117 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.846698 ms
+
+Unloading 114 unused Assets to reduce memory usage. Loaded Objects now: 591.
+Total: 0.871099 ms (FindLiveObjects: 0.124043 ms CreateObjectMapping: 0.050829 ms MarkObjects: 0.415497 ms  DeleteObjects: 0.278397 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.441884 ms
+
+Unloading 234 unused Assets to reduce memory usage. Loaded Objects now: 242.
+Total: 15.429375 ms (FindLiveObjects: 0.092332 ms CreateObjectMapping: 0.037306 ms MarkObjects: 0.255547 ms  DeleteObjects: 15.042790 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.600163 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 591.
+Total: 0.606225 ms (FindLiveObjects: 0.103058 ms CreateObjectMapping: 0.048498 ms MarkObjects: 0.443943 ms  DeleteObjects: 0.008860 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 18d0 -> priority: 1 
+  Thread -> id: 434 -> priority: 1 

@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 40198265357ef4f4e9ac6d5a99958985
+timeCreated: 1550686604
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: run 1
+    21300002: run 2
+    21300004: run 3
+    21300006: run 4
+    21300008: stand 1
+    21300010: stand 2
+    21300012: stand 3
+    21300014: stand 4
+    21300016: stand 5
+    21300018: stand 6
+    21300020: charizard_6
+    21300022: charizard_0
+    21300024: charizard_1
+    21300026: charizard_2
+    21300028: charizard_3
+    21300030: charizard_4
+    21300032: charizard_5
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: run 1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 354
+        width: 123
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5284558, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run 2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 356
+        width: 129
+        height: 63
+      alignment: 9
+      pivot: {x: 0.51162815, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run 3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 358
+        width: 129
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5038767, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run 4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 356
+        width: 125
+        height: 64
+      alignment: 9
+      pivot: {x: 0.528, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stand 1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 508
+        width: 115
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5652179, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stand 2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 508
+        width: 119
+        height: 76
+      alignment: 9
+      pivot: {x: 0.554622, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stand 3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 508
+        width: 120
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5583336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stand 4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 508
+        width: 116
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5687932, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stand 5
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 508
+        width: 114
+        height: 77
+      alignment: 9
+      pivot: {x: 0.56122845, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stand 6
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 508
+        width: 111
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charizard_6
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 508
+        width: 111
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5765766, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charizard_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 104
+        height: 78
+      alignment: 9
+      pivot: {x: 0.18220428, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charizard_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 255
+        width: 87
+        height: 86
+      alignment: 9
+      pivot: {x: 0.09195569, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charizard_2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 255
+        width: 116
+        height: 76
+      alignment: 9
+      pivot: {x: 0.30172467, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charizard_3
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 255
+        width: 122
+        height: 73
+      alignment: 9
+      pivot: {x: 0.35229492, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charizard_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 171
+        width: 130
+        height: 75
+      alignment: 9
+      pivot: {x: 0.3690086, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charizard_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 171
+        width: 130
+        height: 75
+      alignment: 9
+      pivot: {x: 0.3685858, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

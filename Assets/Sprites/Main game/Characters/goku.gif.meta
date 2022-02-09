@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 40e33a0769752e74583302d4d7338968
+timeCreated: 1550804481
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stand 1
+    21300002: stand 2
+    21300004: stand 3
+    21300006: stand 4
+    21300008: stand 5
+    21300010: stand 6
+    21300012: stand 7
+    21300014: stand 8
+    21300016: jump 1
+    21300018: jump 2
+    21300020: jump 3
+    21300022: jump 4
+    21300024: fly 1
+    21300026: fly 2
+    21300028: fly 3
+    21300030: death 1
+    21300032: death 2
+    21300034: death 3
+    21300036: death 4
+    21300038: death 5
+    21300040: death 6
+    21300042: death 7
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stand 1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2663
+        width: 27
+        height: 37
+      alignment: 9
+      pivot: {x: 0.518521, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stand 2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2663
+        width: 27
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5192603, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stand 3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2663
+        width: 27
+        height: 36
+      alignment: 9
+      pivot: {x: 0.51851934, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stand 4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2663
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5357151, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stand 5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2663
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5357154, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stand 6
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2663
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.53500205, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stand 7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2663
+        width: 28
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5357148, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stand 8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2663
+        width: 27
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5185191, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump 1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2484
+        width: 29
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump 2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2484
+        width: 29
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump 3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2489
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump 4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2490
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fly 1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2622
+        width: 30
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5326689, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fly 2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2622
+        width: 31
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5483878, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fly 3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2622
+        width: 30
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5333341, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death 1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1466
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death 2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1465
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death 3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1466
+        width: 33
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death 4
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1465
+        width: 32
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death 5
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1465
+        width: 32
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death 6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1419
+        width: 32
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death 7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1418
+        width: 38
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

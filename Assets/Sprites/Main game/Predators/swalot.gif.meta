@@ -1,0 +1,798 @@
+fileFormatVersion: 2
+guid: ec6115985126dce48b76038c6f823dec
+timeCreated: 1550688324
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: swalot_0
+    21300002: swalot_1
+    21300004: swalot_2
+    21300006: swalot_3
+    21300008: swalot_4
+    21300010: swalot_5
+    21300012: swalot_6
+    21300014: swalot_7
+    21300016: swalot_8
+    21300018: swalot_9
+    21300020: swalot_10
+    21300022: swalot_11
+    21300024: swalot_12
+    21300026: swalot_13
+    21300028: swalot_14
+    21300030: swalot_15
+    21300032: swalot_16
+    21300034: swalot_17
+    21300036: swalot_18
+    21300038: swalot_19
+    21300040: swalot_20
+    21300042: swalot_21
+    21300044: swalot_22
+    21300046: swalot_23
+    21300048: swalot_24
+    21300050: swalot_25
+    21300052: swalot_26
+    21300054: swalot_27
+    21300056: swalot_28
+    21300058: swalot_29
+    21300060: swalot_30
+    21300062: swalot_31
+    21300064: swalot_32
+    21300066: swalot_33
+    21300068: swalot_34
+    21300070: swalot_35
+    21300072: swalot_36
+    21300074: swalot_37
+    21300076: swalot_38
+    21300078: swalot_39
+    21300080: swalot_40
+    21300082: swalot_41
+    21300084: swalot_42
+    21300086: swalot_43
+    21300088: swalot_44
+    21300090: swalot_45
+    21300092: swalot_46
+    21300094: swalot_47
+    21300096: swalot_48
+    21300098: swalot_49
+    21300100: swalot_50
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: swalot_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4061
+        width: 238
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4061
+        width: 241
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_2
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 4060
+        width: 246
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_3
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 4060
+        width: 249
+        height: 228
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_4
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 4060
+        width: 251
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_5
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 4062
+        width: 246
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_6
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 4060
+        width: 236
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_7
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 4059
+        width: 230
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_8
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 4059
+        width: 230
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_9
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 4058
+        width: 225
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_10
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 4057
+        width: 223
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_11
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 4056
+        width: 226
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_12
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 4057
+        width: 228
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3807
+        width: 233
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_14
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 3808
+        width: 236
+        height: 233
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_15
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 3809
+        width: 238
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_16
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 3806
+        width: 241
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_17
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 3800
+        width: 243
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_18
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 3795
+        width: 245
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_19
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 3791
+        width: 245
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_20
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 3788
+        width: 244
+        height: 229
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_21
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 3784
+        width: 241
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_22
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 3782
+        width: 236
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_23
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 3782
+        width: 230
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_24
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 3784
+        width: 225
+        height: 233
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_25
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 3781
+        width: 226
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3542
+        width: 228
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_27
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 3543
+        width: 234
+        height: 245
+      alignment: 9
+      pivot: {x: 0.5062831, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_28
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3530
+        width: 250
+        height: 258
+      alignment: 9
+      pivot: {x: 0.46778125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_29
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 3505
+        width: 275
+        height: 280
+      alignment: 9
+      pivot: {x: 0.42433482, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_30
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 3472
+        width: 354
+        height: 307
+      alignment: 9
+      pivot: {x: 0.33029848, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_31
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 3463
+        width: 369
+        height: 314
+      alignment: 9
+      pivot: {x: 0.31354967, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_32
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 3498
+        width: 387
+        height: 255
+      alignment: 9
+      pivot: {x: 0.3026899, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_33
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 3525
+        width: 383
+        height: 231
+      alignment: 9
+      pivot: {x: 0.31027597, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_34
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 3540
+        width: 389
+        height: 216
+      alignment: 9
+      pivot: {x: 0.32665828, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_35
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 3548
+        width: 391
+        height: 211
+      alignment: 9
+      pivot: {x: 0.34408155, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3297
+        width: 336
+        height: 208
+      alignment: 9
+      pivot: {x: 0.34788316, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_37
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 3256
+        width: 321
+        height: 228
+      alignment: 9
+      pivot: {x: 0.36571392, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_38
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 3223
+        width: 289
+        height: 244
+      alignment: 9
+      pivot: {x: 0.42116097, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_39
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 3192
+        width: 267
+        height: 247
+      alignment: 9
+      pivot: {x: 0.44810686, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_40
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 3187
+        width: 241
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_41
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 3188
+        width: 233
+        height: 228
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_42
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3175
+        width: 247
+        height: 291
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_43
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 3143
+        width: 234
+        height: 312
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_44
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 3186
+        width: 251
+        height: 266
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_45
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 3225
+        width: 272
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_46
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 3223
+        width: 336
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_47
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3015
+        width: 311
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_48
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2967
+        width: 286
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_49
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2921
+        width: 258
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swalot_50
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 2900
+        width: 252
+        height: 239
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
